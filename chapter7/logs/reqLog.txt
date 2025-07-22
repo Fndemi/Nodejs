@@ -1,0 +1,12 @@
+20250722	17:46:23	 301f1492-98d1-466f-984c-86dfc7a2cf8a	GET	undefined	/
+20250722	17:46:24	 e8e02ad7-ffc0-4bab-a50c-7d1ba71c4832	GET	undefined	/css/style.css
+20250722	17:47:41	 68c80ae6-01ff-410f-aa63-8c0fce8e27fb	GET	undefined	/
+20250722	17:47:41	 af1b19a1-1c51-4704-b9fd-64e57f866f59	GET	undefined	/css/style.css
+20250722	17:49:09	 21341c3f-27bb-4418-ab72-321c843c1b48	GET	undefined	/
+20250722	17:49:10	 1e132aa4-3bdd-4ef9-98ca-7d4ea86a297d	GET	undefined	/css/style.css
+20250722	17:52:18	 dabfedbd-aa0b-44d4-8db5-98707d7adbaa	GET	undefined	/
+20250722	17:52:19	 402abac4-9a87-4893-bce9-1f4c44d55082	GET	undefined	/css/style.css
+20250722	19:06:28	 61f97c4b-5c74-4481-8c10-9f2ee76b254f	GET	undefined	/
+20250722	19:06:29	 7bbdcbb6-fa5f-4da8-b265-f23b77fffb22	GET	undefined	/css/style.css
+20250722	19:11:18	 93bdfdee-4154-4d7f-a488-e762fc580169	OPTIONS	https://www.google.com	/
+20250722	19:11:18	 8fb52309-b016-4c01-8abd-96712d9ee82d	GET	https://www.google.com	/

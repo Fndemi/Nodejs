@@ -80,7 +80,6 @@ const server = http.createServer((req, res) => {
         : contentType === 'text/html'
           ? path.join(__dirname, 'views', req.url)
           : path.join(__dirname, req.url);
-  //make .html extension not required in the browser
   if (!extension && req.url.slice(-1) !== '/')
     filePath += '.html';
 
