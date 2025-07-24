@@ -14,7 +14,6 @@ app.use(logger);
 
 app.use(credentials);
 
-
 app.use(cors(corsOptions)); // enable CORS for all requests
 //built-in middleware t habdle urlencoded data
 //in other words, form data
@@ -23,7 +22,6 @@ app.use(express.urlencoded({ extended: false }));
 
 //built-in middleware to handle json data
 app.use(express.json());
-
 
 
 // middleware to parse cookies
